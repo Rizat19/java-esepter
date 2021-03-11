@@ -1,0 +1,2 @@
+public class Oop1 {
+}
